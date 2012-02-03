@@ -1,0 +1,102 @@
+html, body { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+html { font-size: 100.01%; }
+
+div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, tr { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+blockquote, q { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; quotes: "" ""; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+
+th, td, caption { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; text-align: left; font-weight: normal; vertical-align: middle; }
+
+table { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; border-collapse: separate; border-spacing: 0; vertical-align: middle; }
+
+a img { border: none; }
+
+h1, h2, h3, h4, h5 { margin: 0; padding: 0; }
+
+h1, h2, h3, h4 { text-align: center; text-transform: uppercase; font-weight: 600; }
+
+h2 { background: #b2dadc; -webkit-border-radius: 5px 5px; -moz-border-radius: 5px / 5px; -o-border-radius: 5px / 5px; -ms-border-radius: 5px / 5px; -khtml-border-radius: 5px / 5px; border-radius: 5px / 5px; }
+
+body { font-family: Georgia, serif; font-size: 85%; font-weight: 100; }
+
+h1 { color: #264C4F; text-shadow: white 1px 1px 1px; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 4em; }
+
+h3 { color: #6e5c53; text-shadow: white 1px 1px 1px; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 1.6em; font-weight: 200; margin: 20px 0 20px 0; }
+
+h4 { color: #6e5c53; text-shadow: white 1px 1px 1px; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 1em; font-weight: 200; margin: 0 0 10px 0; padding-top: 10px; }
+
+h2 { color: #fff; text-shadow: rgba(0, 0, 0, 0.4) 1px 1px 1px; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 2.4em; margin: 20px 0 20px 0; }
+
+a:link, a:hover, a:visited { color: #0E8D94; font-weight: 200; }
+
+.content, #skills { font-family: Georgia, serif; }
+
+.experience .details { text-align: center; }
+.experience .details .company { font-weight: 500; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 1.4em; }
+.experience .details .position { text-transform: uppercase; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: 1em; }
+.experience .details .dates { text-transform: uppercase; font-family: futura, 'gill sans', verdana, helvetica, arial; font-size: .9em; font-style: italic; }
+
+.center { text-align: center; }
+
+body { background: #d5e8ec; color: #415353; }
+
+#container { background: #eff8f7; border-left: 1px solid rgba(38, 76, 79, 0.4); border-right: 1px solid rgba(38, 76, 79, 0.4); }
+
+html, body { margin: 0; padding: 0; height: 100%; }
+html .clear, body .clear { clear: both; }
+html .nowrap, body .nowrap { white-space: nowrap; }
+html .clearfix, body .clearfix { overflow: hidden; *zoom: 1; }
+html .small, body .small { font-size: 0.8em; margin-bottom: 1.875em; line-height: 1.875em; }
+html .large, body .large { font-size: 1.2em; line-height: 2.5em; margin-bottom: 1.25em; }
+html .first, body .first { margin-left: 0; padding-left: 0; }
+html .last, body .last { margin-right: 0; padding-right: 0; }
+html .top, body .top { margin-top: 0; padding-top: 0; }
+html .bottom, body .bottom { margin-bottom: 0; padding-bottom: 0; }
+html .error, body .error { padding: 0.8em; margin-bottom: 1em; border: 2px solid #dddddd; background: #fbe3e4; color: #8a1f11; border-color: #fbc2c4; }
+html .error a, body .error a { color: #8a1f11; }
+html .notice, body .notice { padding: 0.8em; margin-bottom: 1em; border: 2px solid #dddddd; background: #fff6bf; color: #514721; border-color: #ffd324; }
+html .notice a, body .notice a { color: #514721; }
+html .success, body .success { padding: 0.8em; margin-bottom: 1em; border: 2px solid #dddddd; background: #e6efc2; color: #264409; border-color: #c6d880; }
+html .success a, body .success a { color: #264409; }
+html .hide, body .hide { display: none; }
+html .highlight, body .highlight { background: yellow; }
+html .added, body .added { background: #006600; color: white; }
+html .removed, body .removed { background: #990000; color: white; }
+
+form label { font-weight: bold; }
+form fieldset { padding: 1.4em; margin: 0 0 1.5em 0; }
+form legend { font-weight: bold; font-size: 1.2em; }
+form input.text, form input.title, form input[type=email], form input[type=text], form input[type=password] { margin: 0.5em 0; background-color: white; padding: 5px; }
+form input.title { font-size: 1.5em; }
+form input[type=checkbox], form input.checkbox, form input[type=radio], form input.radio { position: relative; top: 0.25em; }
+form textarea { margin: 0.5em 0; padding: 5px; }
+form select { margin: 0.5em 0; }
+form fieldset { border: 1px solid #cccccc; }
+form input.text, form input.title, form input[type=email], form input[type=text], form input[type=password], form textarea, form select { border: 1px solid #bbbbbb; }
+form input.text:focus, form input.title:focus, form input[type=email]:focus, form input[type=text]:focus, form input[type=password]:focus, form textarea:focus, form select:focus { border: 1px solid #666666; }
+form input.text, form input.title, form input[type=email], form input[type=text], form input[type=password] { width: 300px; }
+form textarea { width: 390px; height: 250px; }
+
+#container { width: 550px; margin: auto; text-align: left; padding: 0px 20px; min-height: 100%; }
+
+header { text-align: center; }
+
+.content { white-space: pre-line; }
+
+#experience ul { list-style: none; padding-left: 0; }
+#experience ul li { list-style-image: none; list-style-type: none; margin-left: 0px; }
+#experience ul li { margin: 0 0 10px 0; }
+
+p { margin: 10px 0; }
+
+#skills ul { list-style-type: square; padding-left: 18px; }
+
+#definition ul, #contact ul { padding: 25px 50px; }
+#definition ol, #definition ul, #contact ol, #contact ul { width: 300px; margin: 0 auto; padding-left: 35px; }
+
+.tan { background: #ECE5CE; padding: 10px; -webkit-border-radius: 5px 5px; -moz-border-radius: 5px / 5px; -o-border-radius: 5px / 5px; -ms-border-radius: 5px / 5px; -khtml-border-radius: 5px / 5px; border-radius: 5px / 5px; }
+.tan p { font-size: 1.2em; }
+
+.dash { width: 50%; margin: 0 auto; border-bottom: 1px solid #6e5c53; }
