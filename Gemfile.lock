@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    dicks (0.03)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dicks
