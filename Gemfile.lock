@@ -1,10 +1,10 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    dicks (0.03)
+    rack (1.4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  dicks
+  rack
